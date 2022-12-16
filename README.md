@@ -8,7 +8,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=mohdashraf010897&hide_border=true&border_radius=5.2)](https://git.io/streak-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 👯 I’m looking to collaborate on **any interesting...**
+- 👯 I’m looking to collaborate on **anything that positively impacts the community...**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mohdashraf010897?tab=repositories](https://github.com/mohdashraf010897?tab=repositories)
 
