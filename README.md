@@ -6,7 +6,7 @@
 [![Muhammad Ashraf's github stats](https://github-readme-stats.vercel.app/api?username=mohdashraf010897&theme=default&show_icons=true&hide_border=true)](https://github.com/mohdashraf010897)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=mohdashraf010897&hide_border=true&border_radius=5.2)](https://git.io/streak-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 - 👯 I’m looking to collaborate on **anything that positively impacts the community...**
 
