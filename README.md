@@ -8,10 +8,11 @@
 <h3 align="center">A passionate Frontend Engineer</h3>
 
 
-[![Muhammad Ashraf's github stats](https://github-readme-stats.vercel.app/api?username=mohdashraf010897&theme=default&show_icons=true&hide_border=true)](https://github.com/mohdashraf010897)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=mohdashraf010897&hide_border=true&border_radius=5.2)](https://git.io/streak-stats)
-
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mohdashraf010897&show_icons=true&theme=defaultlia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mohdashraf010897&layout=compact&langs_count=8&theme=default"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mohdashraf010897&show_icons=true&theme=default&include_all_commits=true&count_private=true" alt="Muhammad Ashraf" />
+</div>
 
 - 👯 I’m looking to collaborate on **anything that positively impacts the community...**
 
