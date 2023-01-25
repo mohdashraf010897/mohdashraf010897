@@ -14,7 +14,7 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mohdashraf010897&show_icons=true&theme=default&include_all_commits=true&count_private=true" alt="Muhammad Ashraf" />
 </div>
 
-- 👯 I’m looking to collaborate on **anything that positively impacts the community...**
+- 🤝 I’m looking to collaborate on **anything that positively impacts the community...**
 
 - 👨‍💻 All of my projects are available at [1️⃣ here](https://github.com/orgs/appbaseio/repositories) and [2️⃣ here](https://github.com/mohdashraf010897?tab=repositories)
 
