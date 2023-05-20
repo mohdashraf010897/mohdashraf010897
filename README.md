@@ -1,6 +1,5 @@
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=mohdashraf010897.visitor-badge" />
-  
+
  <div  align="right">
   <a href="https://www.linkedin.com/in/ashraf-muhammad/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/mohdashraf010897"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
